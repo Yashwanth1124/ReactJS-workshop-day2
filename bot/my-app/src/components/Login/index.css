@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.knob {
+    color: #303150;
+    background-color: #f8fafc;
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    
+  }
+  
+  .knob:hover {
+    border: 2px solid black;
+  }
